@@ -101,7 +101,7 @@ body{
     width: calc(100% / 2);
 }
 
-.options .option label{
+.options .option input{
     height: 16px;
     width: 16px;
     cursor: pointer;
@@ -110,6 +110,7 @@ body{
 .options .option label{
     cursor: pointer;
     padding-left: 0.63rem;
+    color: #4f4f4f;
 }
 
 .wrapper .generate-btn{
